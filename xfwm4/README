@@ -1,0 +1,16 @@
+"Default Optimized" is a modification of the "Default" xfwm4 theme
+meant to save more screen space while maximizing clickable pixels.
+
+• The title bar is 4 pixels shorter.
+• The buttons are nearly twice as wide.
+• There is no unclickable 2-pixel gap between buttons.
+• The buttons are set inward 3 pixels for easier corner resizing
+  while still being clickable against the edge of the screen maximized.
+• The top border clickable region for resizing is 1 pixels thicker.
+
+SVG based theme for xfwm4.
+Created Sept. 2006 by Olivier Fourdan <fourdan@xfce.org>
+Modified Oct. 2014 by Olivier Fourdan <fourdan@xfce.org>
+Theme released under GNU GPL license.
+
+Modified Sept. 2022 by Edward Piper
